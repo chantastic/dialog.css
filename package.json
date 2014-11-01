@@ -1,0 +1,27 @@
+{
+  "name": "dialog.css",
+  "version": "0.0.1",
+  "description": "CSS Dialog",
+  "main": "dst/dialog.css",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chantastic/dialog.css.git"
+  },
+  "keywords": [
+    "css",
+    "dialog",
+    "modal"
+  ],
+  "author": "Michael Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chantastic/dialog.css/issues"
+  },
+  "homepage": "https://github.com/chantastic/dialog.css"
+}
