@@ -1,0 +1,18 @@
+.dialog-open { overflow: hidden }
+
+.dialog-backdrop {
+  background-color: rgba(0,0,0,.6);
+  position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  padding: 3%;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+}
+
+.dialog {
+  margin: 0 auto;
+  background: white;
+}
