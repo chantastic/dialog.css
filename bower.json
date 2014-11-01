@@ -1,0 +1,23 @@
+{
+  "name": "dialog.css",
+  "version": "0.0.1",
+  "homepage": "https://github.com/chantastic/dialog.css",
+  "authors": [
+    "Michael Chan <mijoch@gmail.com>"
+  ],
+  "description": "CSS dialog",
+  "main": "dst/dialog.css",
+  "keywords": [
+    "CSS",
+    "dialog",
+    "modal"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
